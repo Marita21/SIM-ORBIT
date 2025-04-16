@@ -1,7 +1,8 @@
 🛰️ SIM-ORBIT
 This project simulates a satellite orbit around Earth using Keplerian elements. It numerically integrates the trajectory in ECI coordinates and converts it to latitude and longitude to visualize the ground track on a global map using Matplotlib and Cartopy.
 
-✨ Features
+✨ Features:
+
 ✅ Keplerian to Cartesian conversion
 
 ✅ Orbital integration using solve_ivp from SciPy
