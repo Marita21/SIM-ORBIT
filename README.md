@@ -9,6 +9,12 @@ This project simulates a satellite orbit around Earth using Keplerian elements. 
 - Ground track generation with Cartopy
 - Simple, readable Python code
 
+  
+
+  <p align="center">
+  <img src="Orbit.jpeg" alt="Orbit" width="500">
+</p>
+
 ## How to run
 
 1. Install dependencies:
