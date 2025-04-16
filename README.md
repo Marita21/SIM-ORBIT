@@ -14,3 +14,5 @@ This project simulates a satellite orbit around Earth using Keplerian elements. 
 1. Install dependencies:
    ```bash
    pip install numpy scipy matplotlib cartopy
+
+   ![Captura de pantalla](IRRADIANCIA IR.JPG)
